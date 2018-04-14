@@ -206,7 +206,7 @@ Alters und in diesem Umfang sind außerordentlich selten.
             "http://digishelf.de/ppnresolver?id=796933170",
             "http://www.digishelf.de/metsresolver?id=796933170",
         ],
-        "formats": ["xml", "jpg"],
+        "formats": ["xml", "jpeg"],
     },
     "vivat": {
         "title": "Vivatbänder",
