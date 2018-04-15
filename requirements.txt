@@ -15,6 +15,7 @@ decorator==4.2.1
 descartes==1.1.0
 entrypoints==0.2.3
 Fiona==1.7.11.post1
+Flask==0.12.2
 geopandas==0.3.0
 html5lib==1.0.1
 idna==2.6
@@ -22,7 +23,9 @@ ipykernel==4.8.2
 ipython==6.3.1
 ipython-genutils==0.2.0
 ipywidgets==7.2.1
+isodate==0.6.0
 isort==4.3.4
+itsdangerous==0.24
 jedi==0.11.1
 Jinja2==2.10
 jsonschema==2.6.0
@@ -65,6 +68,7 @@ python-dateutil==2.7.2
 pytz==2018.4
 pyzmq==17.0.0
 qtconsole==4.3.1
+rdflib==4.2.2
 requests==2.18.4
 requests-oauthlib==0.8.0
 Send2Trash==1.5.0
@@ -80,6 +84,7 @@ twarc==1.4.1
 urllib3==1.22
 wcwidth==0.1.7
 webencodings==0.5.1
+Werkzeug==0.14.1
 widgetsnbextension==3.2.1
 Wikidata==0.6.1
 wrapt==1.10.11
