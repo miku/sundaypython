@@ -10,25 +10,6 @@ cdvhome.png)
 
 # Hackathons
 
-```python
-hackathon_log = [
-    (2008, 'Triplify Linked Open Data Challenge'),
-    (2011, 'OCLC Worldcat Mashathon'),
-    (2011, 'Hackday Paris'),
-    (2012, 'Coding Contest'),
-    (2013, 'Coding Contest'),
-    (2014, 'Hack Zurich'),
-    (2014, 'Tribeca Hacks <DOK>'),
-    (2015, 'Coding Da Vinci Berlin'),
-    (2015, 'refugeehackathon'),
-    (2016, 'EU hackathon'),
-]
-```
-
-----
-
-# Hackathons
-
 * Hackathons are not usually about one language or technology
 * More about: ideas, exchange, collaboration and experimenation
 
