@@ -1,4 +1,5 @@
-![](images/cdvhome.png)
+![](
+cdvhome.png)
 
 ## 2018-04-15, 14:00, Input Session
 
@@ -33,7 +34,7 @@ hackathon_log = [
 
 ----
 
-# Hackathons
+# Impressions
 
 <!-- What I learned so far: -->
 
@@ -41,16 +42,16 @@ hackathon_log = [
 * opportunity to peek into unknown technologies
 * awareness, inspiration
 * escape work, also: do better work (or worse, sometimes [worse is better](https://en.wikipedia.org/wiki/Worse_is_better))
-* Python works well for prototyping :)
+* Python works well for prototyping
 
 ----
 
 # Python
 
-* Python is a nice, lightweight language
+* Python is a nice (if you like whitespace), lightweight language
 * Python 0.9: February 20, 1991
 * Python 3.6.4: December 19, 2017
-* In top 5 of [Tiobe Index](https://www.tiobe.com/tiobe-index/), alongside Java and C*
+* In top 5 of [Tiobe Index](https://www.tiobe.com/tiobe-index/), alongside Java and
 * an active, heterogeneous community
 
 ----
