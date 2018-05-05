@@ -11,7 +11,7 @@ cdvhome.png)
 # Hackathons
 
 * Hackathons are not usually about one language or technology
-* More about: ideas, exchange, collaboration and experimenation
+* More about: ideas, exchange, collaboration and experimentation
 
 ----
 
