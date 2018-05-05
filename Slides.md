@@ -70,7 +70,7 @@ Let's look at ways to access, inspect, transform, analyze and present data.
 * CSV and Excel files
 * Python and Art
 
-----
+<!--
 
 # TODO
 
@@ -92,7 +92,7 @@ Packages:
 
 * one notebook per package, 5 minutes, 10 packages
 
-<!--
+----
 
 * The data simple format: json - maps to dictionaries
 * IPython and Jupyter (g.co/colab)
@@ -109,5 +109,3 @@ Packages:
 * web app: django, flask
 
 -->
-
-----
