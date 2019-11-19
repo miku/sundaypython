@@ -17,3 +17,5 @@ Kulturdaten stecken. -- https://codingdavinci.de/
 Notebooks:
 
 * https://github.com/miku/sundaypython/tree/master/notebooks
+
+Experimental: Launch repository in [Binder](https://mybinder.org/v2/gh/miku/sundaypython/master).
