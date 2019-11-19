@@ -8,6 +8,8 @@ Kulturdaten stecken. -- https://codingdavinci.de/
 
 * [Slides](Slides.md) - [PDF](Slides.pdf)
 
+![](data/K_214.jpg)
+
 ## Data
 
 * https://codingdavinci.de/daten/
