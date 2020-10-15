@@ -8,6 +8,8 @@ Kulturdaten stecken. -- https://codingdavinci.de/
 
 * [Slides](Slides.md) - [PDF](Slides.pdf)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/miku/sundaypython/master)
+
 ![](data/K_214.jpg)
 
 ## Data
