@@ -89,4 +89,4 @@ widgetsnbextension==3.2.1
 Wikidata==0.6.1
 wrapt==1.10.11
 yapf==0.21.0
-setuptools==45
+setuptools==65.5.1
